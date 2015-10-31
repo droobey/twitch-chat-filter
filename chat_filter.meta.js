@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name        Twitch Plays Pokemon Chat Filter
-// @namespace   https://github.com/jpgohlke/twitch-chat-filter
+// @name        Twitch Installs Arch Linux Chat Filter
+// @namespace  https://github.com/walliski/twitch-chat-filter
 // @description Hide input commands from the chat.
 
-// @include     /^https?://(www|beta)\.twitch\.tv\/(twitchplayspokemon(/(chat.*)?)?|chat\/.*channel=twitchplayspokemon.*)$/
+// @include     /^https?://(www|beta)\.twitch\.tv\/(twitchinstallsarchlinux(/(chat.*)?)?|chat\/.*channel=twitchinstallsarchlinux.*)$/
 
-// @version     3.3
-// @updateURL   https://jpgohlke.github.io/twitch-chat-filter/chat_filter.meta.js
-// @downloadURL https://jpgohlke.github.io/twitch-chat-filter/chat_filter.user.js
+// @version     3.31
+// @updateURL   https://walliski.github.io/twitch-chat-filter/chat_filter.meta.js
+// @downloadURL https://walliski.github.io/twitch-chat-filter/chat_filter.user.js
 // @grant       none
 // @run-at      document-end
 // ==/UserScript==
